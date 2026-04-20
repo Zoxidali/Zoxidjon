@@ -1,14 +1,12 @@
-from tkinter import *
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Feb  3 16:44:14 2024
 
+@author: Xurshidbek
+"""
 
+from tkinter import*
 tk = Tk()
-tk.geometry("300x200")
-
-b = Button(tk, text = "Salom")
-b.place(x=120, y=80)
 
 
 
-
-
-tk.mainloop()  
